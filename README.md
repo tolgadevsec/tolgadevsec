@@ -1,5 +1,9 @@
 ### Hi, I'm Tolga 👋
 
+I'm a web developer and PhD candidate at the [Abertay University](https://rke.abertay.ac.uk/en/persons/tolga-%C3%BCnl%C3%BC) where I research attack-aware and self-defending web applications. 
+
+You can follow me on [Twitter](https://twitter.com/tolgauedev) to stay up-to-date on my recent projects and developments in my research area.
+
 <!--
 **tolgadevsec/tolgadevsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
