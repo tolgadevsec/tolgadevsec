@@ -1,6 +1,6 @@
 ### Hi there, I'm Tolga! 👋
 
-I'm a software engineer and PhD candidate at the [Abertay University](https://rke.abertay.ac.uk/en/persons/tolga-%C3%BCnl%C3%BC) where I research intrusion detection and response techniques for web applications. I'm also exploring the use of deception for application defense.
+I'm a PhD graduate from the [Abertay University](https://rke.abertay.ac.uk/en/persons/tolga-%C3%BCnl%C3%BC) where I investigated attack-aware web applications. As part of my research, I have collected repositories of projects, proof of concepts and research work related to application intrusion detection, deception and defence-in-depth mechanisms.  
 
 <!--
 **tolgadevsec/tolgadevsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
