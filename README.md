@@ -7,7 +7,7 @@ I enjoy researching the intersection of software development and security (`DevS
 - 🎛️ Security Unit Testing
 - 🌱 Software Resilience
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/tolgadevsec).
+You can reach me on [LinkedIn](https://www.linkedin.com/in/tolgadevsec) or [Mastodon](https://infosec.exchange/@canario).
 
 <!--
 **tolgadevsec/tolgadevsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
