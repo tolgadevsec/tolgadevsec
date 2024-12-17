@@ -1,9 +1,9 @@
-### 🦜 Hi there, I'm Tolga! 👋
+### Hi there, I'm Tolga! 👋
 
 I'm a PhD graduate from the [Abertay University](https://rke.abertay.ac.uk/en/persons/tolga-%C3%BCnl%C3%BC) where I investigated **_attack-aware_** web applications. As part of [my research](https://tolgadevsec.github.io/), I have collected repositories of projects, proof of concepts and research work related to application intrusion detection, deception and defence-in-depth mechanisms which you can find here. 
 
 I enjoy researching the intersection of software development and security (`DevSec`), in particular the following areas:
-- ⚔️ Defendable Software Architecture 
+- ⚔️ Attack-Aware & Defendable Software Development 
 - 🎛️ Security Unit Testing
 - 🌱 Software Resilience
 
